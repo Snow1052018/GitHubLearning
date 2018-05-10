@@ -54,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-05-10 12:53:32</sys_created_on>
-        <sys_id>c3729f68db021300e235f00fbf96195e</sys_id>
+        <sys_id>442267640f4213004765cd8ce1050e14</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_227256_githublea_githublearning_table</sys_name>
         <sys_package display_value="GitHubLearning" source="x_227256_githublea">df5f8f240f0213004765cd8ce1050efe</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="GitHubLearning">df5f8f240f0213004765cd8ce1050efe</sys_scope>
         <sys_update_name>sys_dictionary_x_227256_githublea_githublearning_table_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-05-10 13:07:10</sys_updated_on>
+        <sys_updated_on>2018-05-10 14:15:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

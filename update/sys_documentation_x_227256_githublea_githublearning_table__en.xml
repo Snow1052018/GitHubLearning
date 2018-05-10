@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="GitHubLearning Table" language="en" table="x_227256_githublea_githublearning_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>GitHubLearning Table</label>
+            <language>en</language>
+            <name>x_227256_githublea_githublearning_table</name>
+            <plural>GitHubLearning Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-10 12:53:32</sys_created_on>
+            <sys_id>f35f8b680f0213004765cd8ce1050e52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GitHubLearning Table</sys_name>
+            <sys_package display_value="GitHubLearning" source="x_227256_githublea">df5f8f240f0213004765cd8ce1050efe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GitHubLearning">df5f8f240f0213004765cd8ce1050efe</sys_scope>
+            <sys_update_name>sys_documentation_x_227256_githublea_githublearning_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-10 12:53:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

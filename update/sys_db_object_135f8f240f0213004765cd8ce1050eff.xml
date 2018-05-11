@@ -14,7 +14,7 @@
         <label>GitHubLearning Table</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_227256_githublea_githublearning_table</name>
-        <number_ref display_value="SNOW2">375f8b680f0213004765cd8ce1050e5e</number_ref>
+        <number_ref display_value="Branch2">375f8b680f0213004765cd8ce1050e5e</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class display_value="Task" name="task">c07df166b92013006517ce7df7ee46cb</super_class>
